@@ -26,6 +26,10 @@ dependencies = [
     "pydantic>=2.11.9",
     "python-dotenv",
     "scikit-learn>=1.7.2",
+<<<<<<< HEAD
+    #"semantic-kernel>=1.36.0",
+=======
+>>>>>>> refs/remotes/origin/main
     "streamlit>=1.50.0",
     "unstructured>=0.18.15",
     "uvicorn>=0.37.0",
